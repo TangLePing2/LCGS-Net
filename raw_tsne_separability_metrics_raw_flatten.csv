@@ -1,0 +1,2 @@
+Feature mode,Number of samples,Feature dimension,Silhouette score,Davies-Bouldin index
+raw_flatten,500,33600,-0.03363544121384621,4.601212180720277
